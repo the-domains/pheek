@@ -1,0 +1,14 @@
+layout_spectrum: 0.025473970687016845
+typography_spectrum: 0.22503801551647484
+color:
+  brandStrength: 0.4172923066653311
+  lightness: 0.6582623375579715
+  saturation: 0.3424924521241337
+  rhythmicContrast: 0.1589663722552359
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: pheek
