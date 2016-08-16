@@ -12,3 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: pheek
+navigation:
+  - name: Mastering Services
+    url: 'http://audioservices.studio'
+    type: external
